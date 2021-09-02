@@ -1,0 +1,10 @@
+h1 {
+  color: blue;
+}
+.red {
+  color: red;
+}
+body {
+  width: 768px;
+  margin: 0 auto;
+}
